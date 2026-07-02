@@ -1,0 +1,30 @@
+# Gradle outputs
+.gradle/
+build/
+
+# Keep these wrapper files - DO NOT ignore them
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.properties
+# gradle-wrapper.jar is downloaded by CI workflow automatically
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+
+# Keys
+*.jks
+*.keystore
+debug.keystore
+release.keystore
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/

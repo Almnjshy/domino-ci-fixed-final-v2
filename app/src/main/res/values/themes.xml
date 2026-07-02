@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Domino" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- خلفية النافذة -->
+        <item name="android:windowBackground">@android:color/black</item>
+
+        <!-- شريط الحالة شفاف - يتناسب مع الخلفية المتدرجة -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        <!-- شريط التنقل شفاف -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <!-- المحتوى يمتد خلف شريط الحالة -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <!-- المحتوى يمتد خلف شريط التنقل -->
+        <item name="android:windowTranslucentNavigation">true</item>
+
+        <!-- لون أيقونات شريط الحالة (فاتح للخلفية الداكنة) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

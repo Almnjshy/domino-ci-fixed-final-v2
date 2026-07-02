@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">دومينو</string>
+
+    <!-- Menu -->
+    <string name="menu_title">دومينو</string>
+    <string name="menu_new_game">لعبة جديدة</string>
+    <string name="menu_network">اللعب عبر الشبكة</string>
+    <string name="menu_stats">الإحصائيات</string>
+    <string name="menu_settings">الإعدادات</string>
+
+    <!-- Game Modes -->
+    <string name="mode_vs_ai">ضد الذكاء الاصطناعي</string>
+    <string name="mode_vs_player">لاعب ضد لاعب</string>
+    <string name="mode_four_players">4 لاعبين</string>
+    <string name="mode_network">اللعب عبر الشبكة</string>
+
+    <!-- Network -->
+    <string name="network_title">اللعب عبر الشبكة</string>
+    <string name="network_create_room">إنشاء غرفة</string>
+    <string name="network_discover">البحث عن غرف</string>
+    <string name="network_join">انضمام</string>
+    <string name="network_leave">مغادرة الغرفة</string>
+    <string name="network_start_game">ابدأ اللعبة</string>
+    <string name="network_player_name">اسمك في اللعبة</string>
+    <string name="network_room_name">اسم الغرفة</string>
+    <string name="network_host">المضيف</string>
+    <string name="network_players">اللاعبون</string>
+    <string name="network_waiting">في انتظار اللاعبين…</string>
+    <string name="network_connected">متصل</string>
+    <string name="network_connecting">جاري الاتصال…</string>
+    <string name="network_disconnected">غير متصل</string>
+    <string name="network_error">خطأ في الاتصال</string>
+    <string name="network_no_rooms">لا توجد غرف متاحة</string>
+    <string name="network_room_full">الغرفة ممتلئة</string>
+
+    <!-- Game -->
+    <string name="game_your_turn">دورك!</string>
+    <string name="game_ai_thinking">الذكاء الاصطناعي يفكر…</string>
+    <string name="game_draw">سحب قطعة</string>
+    <string name="game_pass">تخطي</string>
+    <string name="game_stock_remaining">المخزون: %d</string>
+    <string name="game_round">الجولة %d</string>
+    <string name="game_winner">الفائز: %s</string>
+    <string name="game_blocked">اللعبة متوقفة!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_volume">الصوت</string>
+    <string name="settings_effects">التأثيرات الصوتية</string>
+    <string name="settings_vibration">الاهتزاز</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_dark_mode">الوضع الداكن</string>
+    <string name="settings_animations">الرسوم المتحركة</string>
+
+    <!-- Stats -->
+    <string name="stats_title">الإحصائيات</string>
+    <string name="stats_games_played">الألعاب الملعوبة</string>
+    <string name="stats_wins">الفوز</string>
+    <string name="stats_losses">الخسارة</string>
+    <string name="stats_win_rate">نسبة الفوز</string>
+    <string name="stats_highest_score">أعلى نتيجة</string>
+    <string name="stats_clear">مسح الإحصائيات</string>
+    <string name="stats_export">تصدير</string>
+
+    <!-- Common -->
+    <string name="action_ok">موافق</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_back">رجوع</string>
+    <string name="action_save">حفظ</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="error_generic">حدث خطأ ما</string>
+    <string name="error_network">خطأ في الاتصال بالشبكة</string>
+</resources>
